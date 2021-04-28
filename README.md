@@ -1,13 +1,5 @@
 # junkdrawer
 
-## Install package
-
-``` r
-#install.packages("devtools")
-#devtools::install_github("jrcalabrese/junkdrawer")
-#library(junkdrawer)
-```
-
 ## Project description 
 
 I have a running list of things that other people have told me cannot be done in R, so either I'll figure out how they can be done in R with existing packages or write functions for them.
